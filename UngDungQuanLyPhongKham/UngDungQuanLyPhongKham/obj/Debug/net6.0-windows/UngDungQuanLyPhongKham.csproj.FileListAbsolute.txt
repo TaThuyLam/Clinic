@@ -1,0 +1,74 @@
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.csproj.AssemblyReference.cache
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\Project.frmLogin.resources
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.Properties.Resources.resources
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.csproj.GenerateResource.cache
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.GeneratedMSBuildEditorConfig.editorconfig
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.AssemblyInfoInputs.cache
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.AssemblyInfo.cs
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.exe
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.deps.json
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.runtimeconfig.json
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.pdb
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.csproj.CopyComplete
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\refint\UngDungQuanLyPhongKham.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.pdb
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.genruntimeconfig.cache
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\ref\UngDungQuanLyPhongKham.dll
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmMain.resources
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.HoSoBenhNhan.resources
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmLapPhieuKham.resources
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmTiepDon.resources
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.DichVu.resources
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.Thuoc.resources
+D:\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.fromDanhMucPhieuKham.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.exe
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.deps.json
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.runtimeconfig.json
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\UngDungQuanLyPhongKham.pdb
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.csproj.AssemblyReference.cache
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmKhamBenh.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmLapPhieuKham.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\Project.frmLogin.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmMain.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmMain_Admin.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmProfile.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmQLDichVu.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmTiepDon.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.fromDanhMucPhieuKham.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.HoSoBenhNhan.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\AppQLPK.LoaiDV.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\AppQLPK.NhanViencs.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.Properties.Resources.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.Thuoc.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.csproj.GenerateResource.cache
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.AssemblyInfoInputs.cache
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.AssemblyInfo.cs
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.csproj.CopyComplete
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\refint\UngDungQuanLyPhongKham.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.pdb
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.genruntimeconfig.cache
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\ref\UngDungQuanLyPhongKham.dll
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmQLThuoc.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmQlNhanVien.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmQLThanhToan.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmChiTietPhieuDV.resources
+D:\Lập trình\Hệ quản trị CSDL\UngDungQuanLyPhongKham\UngDungQuanLyPhongKham\obj\Debug\net6.0-windows\UngDungQuanLyPhongKham.frmChiTietDonThuoc.resources
